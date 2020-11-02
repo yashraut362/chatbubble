@@ -1,0 +1,19 @@
+name: chat_bubbles
+description: Chat bubble widgets, similar to Whatsapp and more shapes. Easy to use and implement
+  chat bubbles.
+version: 0.7.8+2
+homepage: https://github.com/prahack/chat_bubbles
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
